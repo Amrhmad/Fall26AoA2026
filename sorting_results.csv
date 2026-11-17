@@ -1,0 +1,17 @@
+Algorithm,Input Size (N),Average Time (ms)
+Bubble Sort,5,0.00199119
+Bubble Sort,10,0.00538925
+Bubble Sort,50,0.14286053
+Bubble Sort,100,0.83840949
+Selection Sort,5,0.00211275
+Selection Sort,10,0.00338421
+Selection Sort,50,0.08772480
+Selection Sort,100,0.37977444
+Insertion Sort,5,0.00213818
+Insertion Sort,10,0.00469507
+Insertion Sort,50,0.10247829
+Insertion Sort,100,0.53379783
+Merge Sort,5,0.00282897
+Merge Sort,10,0.00747644
+Merge Sort,50,0.05716717
+Merge Sort,100,0.09335879
